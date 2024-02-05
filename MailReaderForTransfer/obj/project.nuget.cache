@@ -1,15 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "PY/+kUiBmfvkfjkHgh3pQ8yYJ9Dly+mZSWrl09s4eLtZ7ewW1ijjWAk9sFL0+LWyS4lPMdtMyvy3h7pNYKV83Q==",
+  "dgSpecHash": "x/BAtw/iwxQLygTY5kwkwJNcWOJ5sAN6M38RhPqjOFfpnKMQPfwgxaYg1SO7OJe5EvcpERKLDtl3c+eACbtqGw==",
   "success": true,
   "projectFilePath": "H:\\customApplication\\MailReaderForTransfer\\MailReaderForTransfer\\MailReaderForTransfer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kevin Bjørn\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Kevin Bjørn\\.nuget\\packages\\mailkit\\4.3.0\\mailkit.4.3.0.nupkg.sha512",
     "C:\\Users\\Kevin Bjørn\\.nuget\\packages\\mimekit\\4.3.0\\mimekit.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kevin Bjørn\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kevin Bjørn\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
     "C:\\Users\\Kevin Bjørn\\.nuget\\packages\\system.formats.asn1\\7.0.0\\system.formats.asn1.7.0.0.nupkg.sha512",
     "C:\\Users\\Kevin Bjørn\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Kevin Bjørn\\.nuget\\packages\\system.security.cryptography.pkcs\\7.0.3\\system.security.cryptography.pkcs.7.0.3.nupkg.sha512",
+    "C:\\Users\\Kevin Bjørn\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
     "C:\\Users\\Kevin Bjørn\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
   ],
   "logs": []
